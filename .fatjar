@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Apr 10 13:50:02 EEST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=SikuliImageSearch_1_0_3.jar
+manifest.mergeall=true
+manifest.mainclass=image.search.SearchBitmap
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
